@@ -121,7 +121,7 @@ int main () {
    return(0);
 }
 ```
-* [ ] strcmp(str1, str2)[example](https://www.geeksforgeeks.org/strcmp-in-c-cpp/)
+* [x] strcmp(str1, str2)[example](https://www.geeksforgeeks.org/strcmp-in-c-cpp/)
 ```
 // C program to illustrate
 // strcmp() function
