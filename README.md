@@ -98,7 +98,7 @@ int main () {
 
 ```
 * [ ] strok(str)[example](https://www.tutorialspoint.com/c_standard_library/c_function_strtok.htm)
-
+``` char *strtok(char *str, const char *delim)```
 ```
 #include <string.h>
 #include <stdio.h>
