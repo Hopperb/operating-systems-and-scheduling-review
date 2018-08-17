@@ -97,9 +97,8 @@ int main () {
 }
 
 ```
-* [ ] strok(str)[example](https://www.tutorialspoint.com/c_standard_library/c_function_strtok.htm)
-``` char *strtok(char *str, const char *delim)```
-```
+* [x] strtok(char *str, const char *delim)[example](https://www.tutorialspoint.com/c_standard_library/c_function_strtok.htm)
+
 #include <string.h>
 #include <stdio.h>
 
@@ -146,9 +145,9 @@ int main()
     return 0;
 }
 ```
-* [ ] fork()
-* [ ] waitpid
-* [ ] excvp(myargs[0], myargs)
+* [x] fork()
+* [x] waitpid
+* [x] excvp(myargs[0], myargs)
 
 ```
 This function could by used by a Unix shell to run a command and wait for the command to finish before going on. It returns the termination status of the command.
