@@ -97,8 +97,9 @@ int main () {
 }
 
 ```
-* [x] strtok(char *str, const char *delim)[example](https://www.tutorialspoint.com/c_standard_library/c_function_strtok.htm)
+* [x] char *strtok(char *str, const char *delim)[example](https://www.tutorialspoint.com/c_standard_library/c_function_strtok.htm)
 
+```
 #include <string.h>
 #include <stdio.h>
 
